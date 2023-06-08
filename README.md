@@ -11,7 +11,7 @@ Please follow the procedures from [Quantecon](https://julia.quantecon.org/gettin
 
 There are 5 lectures in total, with assignments accompanied. You can either download all the lectures or fork the repo. The first lecture sets the grounds and the following four lectures focus on different applications.
 
-## Lecture 1: [Julia Fundamentals](Julia_compecon_2023_Summer_Xing_Xu/blob/main/Julia_Lec_1_Compecon_Xing_Xu.ipynb)
+## Lecture 1: [Julia Fundamentals](Julia_Lec_1_Compecon_Xing_Xu.ipynb)
 
 ## Lecture 2: [A canonical Neo-classical growth model and glimpse into value function iteration (VFI)](Julia_Lec_2_Compecon_Xing_Xu.ipynb)
 

@@ -4,12 +4,12 @@
 
 ## Set up of the Julia environment
 
-Please follow the procedures from [Quantecon](https://julia.quantecon.org/getting_started_julia/getting_started.html#) to set up your Julia environment. Their lectures are great references although some parts might seem a little hard for you at the moment. Don't worry. Towards the end of the lecture, you will have enough tools for further learning by yourself.
+Please follow the procedures from [Quantecon](https://julia.quantecon.org/getting_started_julia/getting_started.html#) to set up your Julia environment. Their lectures are great references although some of them might seem a little hard at the moment. Don't worry. Towards the end of the lecture, you will have enough tools for further learning by yourself.
 
 
 ## Syllabus
 
-There are 5 lectures in total, with assignments accompanied. You can either download all the lectures or fork the repo. The first lecture sets the grounds and the following four lectures focus on different applications.
+There are 5 lectures in total, with assignments accompanied. You can either download all the lectures or fork the repo. The first lecture sets the grounds and the following four lectures focus on different applications. I try to make the topics diverse enough so that they can be helpful for whatever field you are interested in.
 
 * Lecture 1: [Julia Fundamentals](Julia_Lec_1_Compecon_Xing_Xu.ipynb)
 
@@ -20,6 +20,9 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 * Lecture 4: Aiyagari with transition dynamics
 
 * Lecture 5: Firm dynamics with an example of exporter dynamics
+
+## Contact
+If you spot a mistake or have some concerns, I will greatly appreciate if you send me an email at xu000956@umn.edu.
 
 ## Claim on code usage
 

@@ -13,6 +13,8 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 
 * Lecture 1: [Julia Fundamentals](Julia_Lec_1_Compecon_Xing_Xu.ipynb)
 
+* Problem set 1: [PS1](Julia_PS_1_Compecon_Xing_Xu.ipynb)
+
 * Lecture 2: [A canonical Neo-classical growth model and glimpse into value function iteration (VFI)](Julia_Lec_2_Compecon_Xing_Xu.ipynb)
 
 * Lecture 3: McCall's Job search model

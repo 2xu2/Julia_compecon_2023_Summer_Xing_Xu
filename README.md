@@ -17,6 +17,8 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 
 * Lecture 2: [A canonical Neo-classical growth model and glimpse into value function iteration (VFI)](Julia_Lec_2_Compecon_Xing_Xu.ipynb)
 
+* Problem set 2: [PS2](Julia_PS_2_Compecon_Xing_Xu.ipynb)
+  
 * Lecture 3: McCall's Job search model
 
 * Lecture 4: Aiyagari with transition dynamics

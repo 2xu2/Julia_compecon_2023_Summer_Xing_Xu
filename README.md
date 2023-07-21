@@ -19,7 +19,7 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 
 * Problem set 2: [PS2](Julia_PS_2_Compecon_Xing_Xu.ipynb)
   
-* Lecture 3: McCall's Job search model
+* Lecture 3: [McCall's Job search model](Julia_Lec_3_Compecon_Xing_Xu.ipynb)
 
 * Lecture 4: Aiyagari with transition dynamics
 

@@ -21,7 +21,7 @@ There are 5 lectures in total, with assignments accompanied. You can either down
   
 * Lecture 3: [McCall's Job search model](Julia_Lec_3_Compecon_Xing_Xu.ipynb)
 
-* Lecture 4: [Incomplete market with heterogeneous household]((Julia_Lec_4_Compecon_Xing_Xu.ipynb)
+* Lecture 4: [Incomplete market with heterogeneous household](Julia_Lec_4_Compecon_Xing_Xu.ipynb)
 
 * Problem set 4: Hugget model with transition dynamics
 

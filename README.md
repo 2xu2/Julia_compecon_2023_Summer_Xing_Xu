@@ -9,7 +9,7 @@ Please follow the procedures from [Quantecon](https://julia.quantecon.org/gettin
 
 ## Syllabus
 
-There are 5 lectures in total, with assignments accompanied. You can either download all the lectures or fork the repo. The first lecture sets the grounds and the following four lectures focus on different applications. I try to make the topics diverse enough so that they can be helpful for whatever field you are interested in.
+There are 5 lectures in total, with assignments accompanied. You can either download all the lectures or fork the repo. The first lecture sets the ground and the following four lectures focus on different applications. I try to make the topics diverse enough so that they can be helpful for whatever field you are interested in.
 
 * Lecture 1: [Julia Fundamentals](Julia_Lec_1_Compecon_Xing_Xu.ipynb)
 
@@ -21,14 +21,16 @@ There are 5 lectures in total, with assignments accompanied. You can either down
   
 * Lecture 3: [McCall's Job search model](Julia_Lec_3_Compecon_Xing_Xu.ipynb)
 
-* Lecture 4: Aiyagari with transition dynamics
+* Lecture 4: [Incomplete market model with heterogeneous household](Julia_Lec_4_Compecon_Xing_Xu.ipynb)
+
+* Problem set 4: Hugget model with transition dynamics
 
 * Lecture 5: Firm dynamics with an example of exporter dynamics
 
 ## Contact
-If you spot a mistake or have some concerns, I will greatly appreciate if you send me an email at xu000956@umn.edu.
+If you spot a mistake or have some concerns, I would greatly appreciate it if you send me an email at xu000956@umn.edu.
 
-## Claim on code usage
+## Claim on code usage and license
 
-You are free to use any particular codes posted here without specific citing. However, the original link and name should be provided when all or part of the lectures are adopted for educational purposes. 
+You are free to use any particular codes posted here without specific citing. However, the original link and my name should be provided when all or part of the lectures are adopted for educational and other purposes. 
 

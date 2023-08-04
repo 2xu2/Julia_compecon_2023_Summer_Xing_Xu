@@ -23,7 +23,7 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 
 * Lecture 4: [Incomplete market model with heterogeneous household](Julia_Lec_4_Compecon_Xing_Xu.ipynb)
 
-* Problem set 4: Hugget model with transition dynamics
+* Problem set 4: [Hugget model with transition dynamics](Julia_Lec_5_Compecon_Xing_Xu.ipynb)
 
 * Lecture 5: Firm dynamics with an example of exporter dynamics
 

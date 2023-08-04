@@ -25,7 +25,7 @@ There are 5 lectures in total, with assignments accompanied. You can either down
 
 * Problem set 4: Hugget model with transition dynamics
 
-* Lecture 5: [Firm dynamics with an example of exporter dynamics](Julia_Lec_5_Compecon_Xing_Xu.ipynb)
+* Lecture 5: [Firm dynamics with an example of exporter dynamics (incomplete)](Julia_Lec_5_Compecon_Xing_Xu.ipynb)
 
 ## Contact
 If you spot a mistake or have some concerns, I would greatly appreciate it if you send me an email at xu000956@umn.edu.
